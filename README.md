@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/w0ih3pss89qq29pl?svg=true)](https://ci.appveyor.com/project/OlyaMa/regex-phones)
